@@ -83,7 +83,7 @@ class HomeSix extends Component{
                                 </a>
                             </div>
                             <div className="col-md-4">
-                                <a href='https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40pierresaid/perfectweek-45c54ea64b164dbaa6cf41f89dc82ed6-signed.apk'>
+                                <a href='https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40pierresaid/perfectweek-4971735e162e4a649e0a8e2c579e35b2-signed.apk'>
                                     <div className="service-box text-center p-4 mt-3">
                                         <div className="service-icon">
                                             <i className="mdi mdi-cellphone-iphone text-custom"></i>
